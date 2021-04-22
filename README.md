@@ -5,3 +5,8 @@
 
    Processing3 should be able to compile this for just about any place you want to run it.
 
+## Action shots
+
+   Enjoy the shiny 2D goodness below.
+
+   ![Duoclock screenshot](./Screenshot.png "Duoclock")
