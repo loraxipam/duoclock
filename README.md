@@ -5,6 +5,8 @@
 
    Processing3 should be able to compile this for just about any place you want to run it.
 
+   Version 2.0 now with refreshing, resizable window geometry. Go full screem[sic]!!
+
 ## Action shots
 
    Enjoy the shiny 2D goodness below.
